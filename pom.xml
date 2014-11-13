@@ -11,7 +11,7 @@
     <name>PhoneBook</name>
 
     <properties>
-        <java.version>1.6</java.version>
+        <java.version>1.7</java.version>
         <!-- Spring version -->
         <spring.version>3.2.3.RELEASE</spring.version>
         <jersey.version>2.9</jersey.version>
